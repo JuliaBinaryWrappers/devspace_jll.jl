@@ -1,0 +1,143 @@
+[[devspace]]
+arch = "aarch64"
+git-tree-sha1 = "f99656c8d6d2f2a557da2277ad239035790e5e55"
+os = "macos"
+
+    [[devspace.download]]
+    sha256 = "c7f3997c6ed08683b455a6aa5d2d54edbfaf2be85dc64e221399d75cc3c9a867"
+    url = "https://github.com/JuliaBinaryWrappers/devspace_jll.jl/releases/download/devspace-v6.3.2+0/devspace.v6.3.2.aarch64-apple-darwin.tar.gz"
+[[devspace]]
+arch = "aarch64"
+git-tree-sha1 = "8125bbafe8133f7ce11c73255f74fdf0ccbcd455"
+libc = "glibc"
+os = "linux"
+
+    [[devspace.download]]
+    sha256 = "562e0bb75d7d4cc20338b589c66f734d5d613a68951f7ee3424c3b1308a9d024"
+    url = "https://github.com/JuliaBinaryWrappers/devspace_jll.jl/releases/download/devspace-v6.3.2+0/devspace.v6.3.2.aarch64-linux-gnu.tar.gz"
+[[devspace]]
+arch = "aarch64"
+git-tree-sha1 = "8125bbafe8133f7ce11c73255f74fdf0ccbcd455"
+libc = "musl"
+os = "linux"
+
+    [[devspace.download]]
+    sha256 = "562e0bb75d7d4cc20338b589c66f734d5d613a68951f7ee3424c3b1308a9d024"
+    url = "https://github.com/JuliaBinaryWrappers/devspace_jll.jl/releases/download/devspace-v6.3.2+0/devspace.v6.3.2.aarch64-linux-musl.tar.gz"
+[[devspace]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b5a8bbd6133d9800434cca3a05afbe05b0ec9749"
+libc = "glibc"
+os = "linux"
+
+    [[devspace.download]]
+    sha256 = "cbe9b43d832064433b5b15a8aa5486d48e90324c3f91b1c2f70b02ff15f71aa6"
+    url = "https://github.com/JuliaBinaryWrappers/devspace_jll.jl/releases/download/devspace-v6.3.2+0/devspace.v6.3.2.armv6l-linux-gnueabihf.tar.gz"
+[[devspace]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b5a8bbd6133d9800434cca3a05afbe05b0ec9749"
+libc = "musl"
+os = "linux"
+
+    [[devspace.download]]
+    sha256 = "cbe9b43d832064433b5b15a8aa5486d48e90324c3f91b1c2f70b02ff15f71aa6"
+    url = "https://github.com/JuliaBinaryWrappers/devspace_jll.jl/releases/download/devspace-v6.3.2+0/devspace.v6.3.2.armv6l-linux-musleabihf.tar.gz"
+[[devspace]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4180822bb793fada39b7c65188bf64d6120562f1"
+libc = "glibc"
+os = "linux"
+
+    [[devspace.download]]
+    sha256 = "aedf33574a99d51422daaf6ca992f1d0582cc2b3236e461b04d47c675a32f8a1"
+    url = "https://github.com/JuliaBinaryWrappers/devspace_jll.jl/releases/download/devspace-v6.3.2+0/devspace.v6.3.2.armv7l-linux-gnueabihf.tar.gz"
+[[devspace]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4180822bb793fada39b7c65188bf64d6120562f1"
+libc = "musl"
+os = "linux"
+
+    [[devspace.download]]
+    sha256 = "aedf33574a99d51422daaf6ca992f1d0582cc2b3236e461b04d47c675a32f8a1"
+    url = "https://github.com/JuliaBinaryWrappers/devspace_jll.jl/releases/download/devspace-v6.3.2+0/devspace.v6.3.2.armv7l-linux-musleabihf.tar.gz"
+[[devspace]]
+arch = "i686"
+git-tree-sha1 = "23a3384a0778c306e6835f0d262d9bfaadd6318b"
+libc = "glibc"
+os = "linux"
+
+    [[devspace.download]]
+    sha256 = "547426e66643f75b7ac04e0ba2a572b666f4c5d5ac1b8e1b60fadc2001c42546"
+    url = "https://github.com/JuliaBinaryWrappers/devspace_jll.jl/releases/download/devspace-v6.3.2+0/devspace.v6.3.2.i686-linux-gnu.tar.gz"
+[[devspace]]
+arch = "i686"
+git-tree-sha1 = "23a3384a0778c306e6835f0d262d9bfaadd6318b"
+libc = "musl"
+os = "linux"
+
+    [[devspace.download]]
+    sha256 = "547426e66643f75b7ac04e0ba2a572b666f4c5d5ac1b8e1b60fadc2001c42546"
+    url = "https://github.com/JuliaBinaryWrappers/devspace_jll.jl/releases/download/devspace-v6.3.2+0/devspace.v6.3.2.i686-linux-musl.tar.gz"
+[[devspace]]
+arch = "i686"
+git-tree-sha1 = "1669b6826a7e138dfaa76e907aa3d673994f83a9"
+os = "windows"
+
+    [[devspace.download]]
+    sha256 = "21cb1d7b2d314484034210a4df062e9d02d6ea683b46a22ffa52e05e4dedd75f"
+    url = "https://github.com/JuliaBinaryWrappers/devspace_jll.jl/releases/download/devspace-v6.3.2+0/devspace.v6.3.2.i686-w64-mingw32.tar.gz"
+[[devspace]]
+arch = "powerpc64le"
+git-tree-sha1 = "eb10644f55ab539920070f48597fddd622fab791"
+libc = "glibc"
+os = "linux"
+
+    [[devspace.download]]
+    sha256 = "b0187d10c135e18c016834514cd6d32a477fe74d49969df380235d04e021e32b"
+    url = "https://github.com/JuliaBinaryWrappers/devspace_jll.jl/releases/download/devspace-v6.3.2+0/devspace.v6.3.2.powerpc64le-linux-gnu.tar.gz"
+[[devspace]]
+arch = "x86_64"
+git-tree-sha1 = "28ed2d2ae7776836325303dfdb97ca99cfbdc096"
+os = "macos"
+
+    [[devspace.download]]
+    sha256 = "89c121d8b21a523d75512cdcdf619c48b6205ab07ca79426ed9a0cfea8f8dfbb"
+    url = "https://github.com/JuliaBinaryWrappers/devspace_jll.jl/releases/download/devspace-v6.3.2+0/devspace.v6.3.2.x86_64-apple-darwin.tar.gz"
+[[devspace]]
+arch = "x86_64"
+git-tree-sha1 = "b207c4af21cf8daa2c3449b1840ec0198d7906cb"
+libc = "glibc"
+os = "linux"
+
+    [[devspace.download]]
+    sha256 = "b1cc52b57f44ea34b4a5c40a7ba7037cb64c0b00bb4876a726413715352d3bb5"
+    url = "https://github.com/JuliaBinaryWrappers/devspace_jll.jl/releases/download/devspace-v6.3.2+0/devspace.v6.3.2.x86_64-linux-gnu.tar.gz"
+[[devspace]]
+arch = "x86_64"
+git-tree-sha1 = "7f362f156d8d3529d17f7146e02311c930426dfe"
+libc = "musl"
+os = "linux"
+
+    [[devspace.download]]
+    sha256 = "1e7d8c69ba9148ba5e4f76893717fe916ad8f6a1e4d208cd5734429c3df05c4e"
+    url = "https://github.com/JuliaBinaryWrappers/devspace_jll.jl/releases/download/devspace-v6.3.2+0/devspace.v6.3.2.x86_64-linux-musl.tar.gz"
+[[devspace]]
+arch = "x86_64"
+git-tree-sha1 = "404f113b152faade19b334c334bda57e03dee34e"
+os = "freebsd"
+
+    [[devspace.download]]
+    sha256 = "b619e93d2396348e93d9ac9bfe2ed03683d3f6976e6aa9df940ad2e1495481db"
+    url = "https://github.com/JuliaBinaryWrappers/devspace_jll.jl/releases/download/devspace-v6.3.2+0/devspace.v6.3.2.x86_64-unknown-freebsd.tar.gz"
+[[devspace]]
+arch = "x86_64"
+git-tree-sha1 = "517e59f65c8a79a8b43302a903e8a7c4241b1a29"
+os = "windows"
+
+    [[devspace.download]]
+    sha256 = "7ad3db1e165349a7064fa363b235209ceae49c4a4d2c97fed7e43535cc9c07d2"
+    url = "https://github.com/JuliaBinaryWrappers/devspace_jll.jl/releases/download/devspace-v6.3.2+0/devspace.v6.3.2.x86_64-w64-mingw32.tar.gz"
